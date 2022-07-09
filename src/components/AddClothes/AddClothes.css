@@ -1,0 +1,11 @@
+.add-clothes {
+  /* width: 100px; */
+  height: 500px;
+  color: black;
+  background-color: rgb(243, 235, 227);
+}
+.add-save {
+  background-color: black !important;
+  color: white !important;
+  border-color: grey;
+}

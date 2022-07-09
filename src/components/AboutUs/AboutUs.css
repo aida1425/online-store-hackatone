@@ -1,0 +1,25 @@
+@media all and(max-width: 1100px) {
+  .about-us-img {
+    margin-right: 100px !important;
+  }
+}
+@media all and(max-width: 1000px) {
+  .about-us-img {
+    margin-right: 100px !important;
+  }
+}
+@media all and(max-width: 1000px) {
+  .about-main {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+}
+
+@media all and(max-width: 1000px) {
+  .about-us {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+}
